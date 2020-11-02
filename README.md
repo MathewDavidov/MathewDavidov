@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I am Mathew Davidov <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**MathewDavidov/MathewDavidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Studying Computer Science at Brooklyn College :school:</i>
 
-Here are some ideas to get you started:
+<i>Software Engineer :sparkles:</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewDavidov)](https://github.com/anuraghazra/github-readme-stats)
+[![Mathew's github stats](https://github-readme-stats.vercel.app/api?username=MathewDavidov&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+```Java
+package MathewDavidov;
+
+public class About {
+ public String[] getLanguages() {
+  return new String[]{"Java", "JavaScript", "React.js", "Redux.js", "Node.js", "HTML", "C++", "Python"};
+ }
+ 
+ public String[] getTechnologies() {
+  return new String[]{"Git", "GitHub", "Heroku", "VS Code", "Intellij IDEA"};
+ }
+}
+```
